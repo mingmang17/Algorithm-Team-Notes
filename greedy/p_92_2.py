@@ -18,3 +18,4 @@ result += first*count #가장 큰 수 더하기
 result += second*(m-count) # 두번째 수 더하기
 
 print(result)
+ 

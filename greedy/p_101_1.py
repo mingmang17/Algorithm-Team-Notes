@@ -13,6 +13,6 @@ while n >= k :
 
 while n > 1:
     n-=1
-    result+=1
+    result+=1 
 
 print(result)

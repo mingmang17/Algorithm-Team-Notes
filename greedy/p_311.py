@@ -13,5 +13,5 @@ for i in data: #공포도가 제일 낮은 애부터 하나씩 확인하며
         result+=1 # 총 그룹수 증가시키기
         count = 0 # 현재 그룹에 포함된 모험가의 수 초기화
 
-print(result)#그룹수 출력
+print(result)#그룹수 출력 
 

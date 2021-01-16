@@ -15,3 +15,4 @@ for i in range(1, len(data)): #1부터 len(data)-1 까지 i에 대입
 print(result)
 
     
+ 

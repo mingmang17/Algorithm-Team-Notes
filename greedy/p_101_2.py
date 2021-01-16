@@ -19,4 +19,4 @@ while True:
 #n이 k보다 작아졌을 때 남은 수에 대하여 1씩 빼기
 result += (n-1)
 print(result)
- 
+  

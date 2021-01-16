@@ -8,3 +8,4 @@ for coin in array:
     n %= coin
 
 print(count)
+ 

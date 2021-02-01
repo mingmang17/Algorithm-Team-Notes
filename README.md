@@ -14,3 +14,9 @@
 * [문자열 뒤집기](./greedy/p_313.py)
 * [만들 수 없는 금액](./greedy/p_314.py)
 * [볼링공 고르기](./greedy/p_315.py)
+
+### implementation
+* [상하좌우](./implementation/chap04_P_112.py)
+* [시각](./implementation/chap04_P_113.py)
+* [왕실의 나이트](./implementation/chap04_P_117.py)
+* [문자열 재정렬](./implementation/chap04_P_322.py)

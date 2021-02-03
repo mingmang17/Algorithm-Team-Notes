@@ -15,7 +15,7 @@
 * [만들 수 없는 금액](./greedy/p_314.py)
 * [볼링공 고르기](./greedy/p_315.py)
 
-### implementation
+### 구현
 * [상하좌우](./implementation/chap04_P_112.py)
 * [시각](./implementation/chap04_P_113.py)
 * [왕실의 나이트](./implementation/chap04_P_117.py)
@@ -30,3 +30,7 @@
 * [최대공약수](./DFS&BFS/chap05_gcd.py)
 * [음료수 얼려먹기](./DFS&BFS/chap05_151.py)
 * [미로탈출](./DFS&BFS/chap05_154.py)
+
+### 정렬
+* [선택정렬예제](./정렬/chap06_p_159.py)
+* [삽입정렬](./정렬/chap06_p_164.py)
